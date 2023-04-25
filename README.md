@@ -2,7 +2,7 @@
 
 ![Imgur](https://i.imgur.com/SUlbD54.jpg)
 
-I'm a Web Developer interested in React, JS, HTMl, CSS, and more. Graduate of [DU's](https://bootcamp.du.edu/coding/) coding boot camp.
+I'm a Web Developer interested in React, JS, HTML, CSS, and more. Graduate of [DU's](https://bootcamp.du.edu/coding/) coding boot camp.
 
 - 🔭 I’m currently working on refining my React skills and looking for work. 
 - 🌱 I’m currently learning about design and more complex aspects of React.
