@@ -7,7 +7,6 @@ I'm a Web Developer interested in React, JS, HTML, CSS, and more. Graduate of [D
 - 🔭 I’m currently working on refining my React skills and looking for work. 
 - 🌱 I’m currently learning about design and more complex aspects of React.
 - 👯 I’m looking to network and learn more about the industry. 
-- 💬 Ask me about anything and everything 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thackbarth/)](https://www.linkedin.com/in/thackbarth/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:travishackbarth@gmail.com)](mailto:travishackbarth@gmail.com)
