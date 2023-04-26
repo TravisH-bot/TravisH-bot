@@ -23,6 +23,7 @@ I'm a Web Developer interested in React, JS, HTML, CSS, and more. Graduate of [D
 </a>
   </div>
 
+<br></br>
 **Languages and Tools:**
 
 <p align="center">
