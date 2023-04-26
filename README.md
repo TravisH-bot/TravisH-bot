@@ -11,6 +11,8 @@ I'm a Web Developer interested in React, JS, HTML, CSS, and more. Graduate of [D
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thackbarth/)](https://www.linkedin.com/in/thackbarth/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:travishackbarth@gmail.com)](mailto:travishackbarth@gmail.com)
 
+You can find a link to my [Portfolio here](https://travish-bot.github.io/My-Portfolio/).
+
 **My Stats:**
 
 <div style="flex">
