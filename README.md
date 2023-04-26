@@ -15,10 +15,10 @@ I'm a Web Developer interested in React, JS, HTML, CSS, and more. Graduate of [D
 
 <div style="flex">
 <a href="https://github.com/TravisH-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisH-bot&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisH-bot&theme=tokyonight">
 </a>
 <a href="[https://github.com/TravisH-bot](https://github.com/TravisH-bot)">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravisH-bot&show_icons=true&theme=dark&line_height=30" alt="Travis's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravisH-bot&show_icons=true&theme=tokyonight&line_height=30" alt="Travis's github stats"/>
 </a>
   </div>
 
