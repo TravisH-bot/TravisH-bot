@@ -4,7 +4,7 @@
 
 I'm a Web Developer interested in React, JS, HTML, CSS, and more. Graduate of [DU's](https://bootcamp.du.edu/coding/) coding boot camp.
 
-- 🔭 I’m currently working on refining my React skills and looking for work. 
+- 🔭 I’m currently working on refining my React and JavaScript skills. 
 - 🌱 I’m currently learning about design and more complex aspects of React.
 - 👯 I’m looking to network and learn more about the industry. 
 - 📫 How to reach me:
