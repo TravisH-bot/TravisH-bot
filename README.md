@@ -11,7 +11,7 @@ I'm a Junior Web Developer interested in React, JS, HTML, CSS, and more. Graduat
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thackbarth/)](https://www.linkedin.com/in/thackbarth/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:travishackbarth@gmail.com)](mailto:travishackbarth@gmail.com)
 
-You can find a link to my <a href="https://travish-bot.github.io/My-Portfolio/" target="blank">Portfolio here</a>.
+You can find a link to my <a href="https://travish-bot.github.io/My-Portfolio/" target="_blank">Portfolio here</a>.
 
 **My Stats:**
 
