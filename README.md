@@ -1,4 +1,5 @@
-# TravisH-bot - Junior Web Developer
+# TravisH-bot
+## Junior Web Developer
 
 ![Imgur](https://i.imgur.com/SUlbD54.jpg)
 
