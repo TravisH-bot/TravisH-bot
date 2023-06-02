@@ -2,7 +2,7 @@
 
 ![Imgur](https://i.imgur.com/SUlbD54.jpg)
 
-I'm a Junior Web Developer interested in React, JS, HTML, CSS, and more. Graduate of [DU's](https://bootcamp.du.edu/coding/) coding boot camp.
+I'm a Junior Web Developer interested in React, JavaScript, HTML, CSS, and more. Graduate of [DU's](https://bootcamp.du.edu/coding/) coding boot camp.
 
 - 🔭 I’m currently working on refining my React and JavaScript skills. 
 - 🌱 I am also learning more about design and more complex aspects of React.
