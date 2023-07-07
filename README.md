@@ -17,10 +17,10 @@ You can find a link to my <a href="https://travish-bot.github.io/My-Portfolio/" 
 
 <div style="flex">
 <a href="https://github.com/TravisH-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisH-bot&theme=neon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisH-bot&theme=dark">
 </a>
 <a href="[https://github.com/TravisH-bot](https://github.com/TravisH-bot)">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravisH-bot&show_icons=true&theme=neon&line_height=30" alt="Travis's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravisH-bot&show_icons=true&theme=dark&line_height=30" alt="Travis's github stats"/>
 </a>
   </div>
 
