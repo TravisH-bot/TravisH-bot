@@ -17,10 +17,10 @@ I'm a Junior Web Developer interested in React, JavaScript, HTML, CSS, and more.
 
 <div style="flex">
 <a href="https://github.com/TravisH-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisH-bot&theme=light">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TravisH-bot&theme=neon">
 </a>
 <a href="[https://github.com/TravisH-bot](https://github.com/TravisH-bot)">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravisH-bot&show_icons=true&theme=light&line_height=30" alt="Travis's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TravisH-bot&show_icons=true&theme=neon&line_height=30" alt="Travis's github stats"/>
 </a>
   </div>
 
